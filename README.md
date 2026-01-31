@@ -1,10 +1,10 @@
 ## Screenshots
 
-### Home Page
-![Home Page](public/images/home.png)
-
 ### Login Page
 ![Login Page](public/images/login.png)
+
+### Home Page
+![Home Page](public/images/home.png)
 
 ### Consultation Flow
 ![Consultation Step 1](public/images/cons1.png)
