@@ -1,3 +1,17 @@
+## Screenshots
+
+### Home Page
+![Home Page](public/images/home.png)
+
+### Login Page
+![Login Page](public/images/login.png)
+
+### Consultation Flow
+![Consultation Step 1](public/images/cons1.png)
+![Consultation Step 2](public/images/cons2.png)
+![Consultation Step 3](public/images/cons3.png)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
